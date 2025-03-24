@@ -5,6 +5,15 @@ Our API stores detailed data on housing units, tracking key elements like locati
 
 Our goal is to make this API as flexible and inclusive as possible, accommodating the diverse needs of underserved communities. Over time, we plan to expand the service to support a broader range of housing options and criteria, making it a valuable and reliable resource for those seeking affordable, inclusive housing options.
 
+#### Personal Contributions
+
+This project was a collaborative team effort, with each team member playing a key role in its development. My contributions focused on both backend and frontend aspects to ensure a seamless user experience:
+
+- Developed several core API methods and wrote corresponding unit tests.
+- Refactored and updated the API structure as the project evolved, improving maintainability.
+- Designed the frontend with a user-friendly and scalable interface to effectively display data.
+- Implemented frontend functionality that clearly and comprehensively showcased API capabilities.
+
 
 ## API Usage Instructions
 
